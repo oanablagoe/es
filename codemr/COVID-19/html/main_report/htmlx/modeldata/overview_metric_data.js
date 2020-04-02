@@ -1,1 +1,0 @@
-var CodeMR_ProjectMetrics = {"Project Name":"COVID-19", "Number of Highly Problematic Classes":0, "Number of Entities":27, "Number of Problematic Classes":0, "Class Lines of Code":435, "Number of External Packages":56, "Number of Packages":12, "Number of External Entities":193}
