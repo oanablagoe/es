@@ -1,0 +1,266 @@
+[
+  {
+    "precondition": "Gilmore Girls",
+    "postcondition": [
+      "comedy",
+      "drama"
+    ]
+  },
+  {
+    "precondition": "Friends",
+    "postcondition": [
+      "sitcom"
+    ]
+  },
+  {
+    "precondition": "Two And A Half Men",
+    "postcondition": [
+      "sitcom"
+    ]
+  },
+  {
+    "precondition": "The Big Bang Theory",
+    "postcondition": [
+      "sitcom"
+    ]
+  },
+  {
+    "precondition": "How I Met Your Mother",
+    "postcondition": [
+      "sitcom"
+    ]
+  },
+  {
+    "precondition": "That 70's Show",
+    "postcondition": [
+      "sitcom"
+    ]
+  },
+  {
+    "precondition": "Jane The Virgin",
+    "postcondition": [
+      "telenovela"
+    ]
+  },
+  {
+    "precondition": "A Series Of Unfortunate Events",
+    "postcondition": [
+      "gothic fiction",
+      "comedy",
+      "drama"
+    ]
+  },
+  {
+    "precondition": "Disenchantment",
+    "postcondition": [
+      "animated sitcom"
+    ]
+  },
+  {
+    "precondition": "Family Guy",
+    "postcondition": [
+      "animated sitcom"
+    ]
+  },
+  {
+    "precondition": "King Julien",
+    "postcondition": [
+      "adventure",
+      "comedy"
+    ]
+  },
+  {
+    "precondition": "Boss Baby - Back In Business",
+    "postcondition": [
+      "comedy"
+    ]
+  },
+  {
+    "precondition": "Hangover",
+    "postcondition": [
+      "comedy"
+    ]
+  },
+  {
+    "precondition": "Pandemic",
+    "postcondition": [
+      "documentary"
+    ]
+  },
+  {
+    "precondition": "Black Hole Apocalypse",
+    "postcondition": [
+      "documentary"
+    ]
+  },
+  {
+    "precondition": "The Story Of Diana",
+    "postcondition": [
+      "documentary"
+    ]
+  },
+  {
+    "precondition": "Great Hack",
+    "postcondition": [
+      "documentary"
+    ]
+  },
+  {
+    "precondition": "Babies",
+    "postcondition": [
+      "documentary"
+    ]
+  },
+  {
+    "precondition": "Explained",
+    "postcondition": [
+      "documentary"
+    ]
+  },
+  {
+    "precondition": "Knock Down The House",
+    "postcondition": [
+      "documentary"
+    ]
+  },
+  {
+    "precondition": "The Crown",
+    "postcondition": [
+      "history",
+      "drama"
+    ]
+  },
+  {
+    "precondition": "You",
+    "postcondition": [
+      "thriller",
+      "crime"
+    ]
+  },
+  {
+    "precondition": "Money Heist",
+    "postcondition": [
+      "crime",
+      "thriller"
+    ]
+  },
+  {
+    "precondition": "Dexter",
+    "postcondition": [
+      "drama",
+      "thriller"
+    ]
+  },
+  {
+    "precondition": "Breaking Bad",
+    "postcondition": [
+      "drama"
+    ]
+  },
+  {
+    "precondition": "House Of Cards",
+    "postcondition": [
+      "drama",
+      "thriller"
+    ]
+  },
+  {
+    "precondition": "Scandal",
+    "postcondition": [
+      "drama",
+      "thriller"
+    ]
+  },
+  {
+    "precondition": "Grey's Anatomy",
+    "postcondition": [
+      "drama",
+      "comedy",
+      "romance"
+    ]
+  },
+  {
+    "precondition": "Chicago Med",
+    "postcondition": [
+      "drama"
+    ]
+  },
+  {
+    "precondition": "Narcos",
+    "postcondition": [
+      "drama",
+      "crime"
+    ]
+  },
+  {
+    "precondition": "El Chapo",
+    "postcondition": [
+      "thriller",
+      "crime"
+    ]
+  },
+  {
+    "precondition": "Paradise PD",
+    "postcondition": [
+      "adult animation",
+      "comedy"
+    ]
+  },
+  {
+    "precondition": "Murder Mystery",
+    "postcondition": [
+      "mystery",
+      "crime"
+    ]
+  },
+  {
+    "precondition": "Defenders",
+    "postcondition": [
+      "crime",
+      "action",
+      "superhero"
+    ]
+  },
+  {
+    "precondition": "Avengers",
+    "postcondition": [
+      "crime",
+      "action",
+      "superhero"
+    ]
+  },
+  {
+    "precondition": "Horrible Bosses",
+    "postcondition": [
+      "comedy",
+      "crime"
+    ]
+  },
+  {
+    "precondition": "The Irishman",
+    "postcondition": [
+      "crime",
+      "drama"
+    ]
+  },
+  {
+    "precondition": "13 Reasons Why",
+    "postcondition": [
+      "drama",
+      "mystery"
+    ]
+  },
+  {
+    "precondition": "Stranger Things",
+    "postcondition": [
+      "horror",
+      "drama"
+    ]
+  },
+  {
+    "precondition": "Suits",
+    "postcondition": [
+      "drama"
+    ]
+  }
+]

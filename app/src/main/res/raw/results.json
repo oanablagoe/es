@@ -1,0 +1,106 @@
+[
+  {
+    "precondition": "comedy",
+    "postcondition": [
+      "Bad Teacher"
+    ]
+  },
+
+  {
+    "precondition": "sitcom",
+    "postcondition": [
+      "Brooklyn Nine-Nine"
+    ]
+  },
+
+  {
+    "precondition": "telenovela",
+    "postcondition": [
+      "Elite"
+    ]
+  },
+  {
+    "precondition":"gothic fiction",
+    "postcondition": [
+      "Dark Shadows"
+    ]
+  },
+  {
+    "precondition": "drama",
+    "postcondition": [
+      "The Affair"
+    ]
+  },
+  {
+    "precondition": "adventure",
+    "postcondition": [
+      "Chilling Adventures Of Sabrina"
+    ]
+  },
+  {
+    "precondition": "documentary",
+    "postcondition": [
+      "Planet Earth"
+    ]
+  },
+  {
+    "precondition": "history",
+    "postcondition": [
+      "World War II In Colour"
+    ]
+  },
+  {
+    "precondition": "thriller",
+    "postcondition": [
+      "Joker"
+    ]
+  },
+  {
+    "precondition": "crime",
+    "postcondition": [
+      "The Godfather"
+    ]
+  },
+  {
+    "precondition": "romance",
+    "postcondition": [
+      "A Star Is Born"
+    ]
+  },
+  {
+    "precondition": "adult animation",
+    "postcondition": [
+      "Sausage Party"
+    ]
+  },
+  {
+    "precondition": "mystery",
+    "postcondition": [
+      "Blade Runner 2049"
+    ]
+  },
+  {
+    "precondition": "action",
+    "postcondition": [
+      "John Wick"
+    ]
+  },
+  {
+    "precondition": "superhero",
+    "postcondition": [
+      "Jessica Jones"
+    ]
+  },
+  {
+    "precondition": "horror",
+    "postcondition": [
+      "It"
+    ]
+  },
+  {
+    "precondition": "animated sitcom",
+    "postcondition": [
+      "The Simpsons"
+    ]
+  }
+]

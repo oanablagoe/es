@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#202020</color>
+    <color name="colorPrimaryDark">#20006A</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="black">#000000</color>
+    <color name="grey">#202020</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#00FF00</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="mapRed">#33F10505</color>
+    <color name="mapGreen">#9926EC2E</color>
+    <color name="mapYellow">#99FF5722</color>
+    <color name="mapDetailBackground">#A6040404</color>
+</resources>
